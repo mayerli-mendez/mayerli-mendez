@@ -1,11 +1,10 @@
 ## Hi there 👋
 
 
-#### My name is Mayerli, I am a student of Software Developer and I am working to acquire all the knowledge to be one ✨.
+#### My name is Mayerli,
 
 Here are some ideas to get you started:
 
-- 🔭 I am currently studying at the National Polytechnic School.
 - 👯 Looking to collaborate with technology companies.
 - 📫 How to contact me:
     - My email: mayerli14paredes@gmail.com
